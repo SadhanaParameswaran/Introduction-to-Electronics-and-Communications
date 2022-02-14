@@ -26,7 +26,7 @@ An 8-bit random binary bit pattern as the base band modulating signal.
 Display the modulated signal and the information bit pattern
 
 # Problem Statement 5
-n a frequency modulation the frequency of the carrier is modulated by the modulating signal. Given a modulating signal and carrier signal as 3Cos(2000*pi*t) and 10 Sin(20000*pi*t) respectively and modulation Index as 10, plot the modulating signal and the frequency modulated wave in the time domain.
+In a frequency modulation the frequency of the carrier is modulated by the modulating signal. Given a modulating signal and carrier signal as 3Cos(2000*pi*t) and 10 Sin(20000*pi*t) respectively and modulation Index as 10, plot the modulating signal and the frequency modulated wave in the time domain.
 
 # Problem Statement 6
 Write a script to sample a sinusoidal base band signal of 1000Hz frequency at a sampling frequency of 40KHz. Reduce the sampling frequency by half and then to 1/4th . Report if the sampling frequency would alter retrieving the baseband signal. Determine around what sampling frequency you start seeing the distortion?
