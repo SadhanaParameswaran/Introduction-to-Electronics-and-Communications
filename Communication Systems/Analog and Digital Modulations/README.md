@@ -12,7 +12,19 @@ Write a MATLAB script to generate a binary PSK signal for a random base band dat
 Assume the carrier frequency fc as 1000Hz
 
 # Problem Statement 3
+Using the modulate () function, generate the frequency modulated output. Following inputs to be considered
+Carrier frequency Fc = 10KHz
+Sampling Frequency Fs = 23KHz
+ Modulating signal frequency Fm = 500Hz
+Modulation Index =10
+Plot the Modulating signal and the modulated signal in time domain
+
 # Problem Statement 4
+Write a MATLAB script for Binary ON-OFF shift keying modulation. 
+Consider the sinusoidal carrier frequency of 5KHz.
+An 8-bit random binary bit pattern as the base band modulating signal.
+Display the modulated signal and the information bit pattern
+
 # Problem Statement 5
 # Problem Statement 6
 # Problem Statement 7
