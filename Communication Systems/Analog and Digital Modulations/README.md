@@ -32,6 +32,22 @@ In a frequency modulation the frequency of the carrier is modulated by the modul
 Write a script to sample a sinusoidal base band signal of 1000Hz frequency at a sampling frequency of 40KHz. Reduce the sampling frequency by half and then to 1/4th . Report if the sampling frequency would alter retrieving the baseband signal. Determine around what sampling frequency you start seeing the distortion?
 
 # Problem Statement 7
+For the given data below,
+•	Modulating signal: square wave of frequency 1KHz
+•	Modulation Index for PM =4
+•	Modulating Index for FM =4
+•	Carrier: Sinusoidal wave of 42KHz
+Q1. Plot the Modulating signal
+Q2. Plot the Phase modulated signal for the given modulating signal
+Q3. Plot the Frequency modulated signal.
+
 # Problem Statement 8
+Write a MATLAB script to generate an ASK signal for the baseband digital data given below
+Consider a sinusoidal carrier of 
+Q1. Vc*sin(2 * pi *2000* t)
+Q2. (Vc/4)*sin(2 * pi *2000* t)
+To represent ‘1’ and ‘0’ respectively.
+0	0	1	0	1	1	0	1	0	0
+
 # Problem Statement 9
 # Problem Statement 10
