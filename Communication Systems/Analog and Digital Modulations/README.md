@@ -17,3 +17,5 @@ Assume the carrier frequency fc as 1000Hz
 # Problem Statement 6
 # Problem Statement 7
 # Problem Statement 8
+# Problem Statement 9
+# Problem Statement 10
